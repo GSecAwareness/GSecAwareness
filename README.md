@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Matt
+- 👋 Hi, I’m Matt!
+- IT Professional, Teacher, Cyber Security Practitioner
 - 👀 I’m interested in Cyber Security, Networking, and Information Technology
 - 🌱 I’m currently learning Cyber Security, Powershell, and much more
 - 💞️ I’m looking to collaborate on ...
