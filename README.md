@@ -17,8 +17,11 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>🖥️ Work Projects:</h2>
-- <b>Computer Build Tutorial</b>
 
+- <b>Computer Build Tutorial</b>
+   - [An Introduction to the project](https://github.com/joshmadakor1/Sentinel-Lab)
+   - [Getting everything set](https://github.com/joshmadakor1/Sentinel-Lab)
+  
 
 <h2>🤖 AI Projects:</h2>
 
