@@ -5,18 +5,15 @@
 - <b>Active Directory Home Lab </b>
   - [Home Lab using Oracle, Server 2019, Windows 10, Power Shell](https://github.com/GSecAwareness/CreateActiveDirectoryLab)
 - <b>Vulnerability Detection and Remediation</b>
-  - [Nesuss Vulnerablity Scan and Remediation walkthrough](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Nesuss Vulnerablity Scan and Remediation walkthrough]()
+  
+<h2>🤖 Intune Projects </h2>
 
-<h2>🖥️ Work Projects:</h2>
+- [Create iPhone Compliance Policy for MDM]()
+
+- [Onboard iPhone into Intune and Assign Compliance Policy](https://github.com/GSecAwareness/CreateActiveDirectoryLab)
+
+<h2>🖥️ Build Projects:</h2>
 
 - <b>Computer Build Tutorial</b>
    - [An Introduction to the project](https://github.com/joshmadakor1/Sentinel-Lab)
