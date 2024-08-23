@@ -20,7 +20,7 @@
    - [Getting everything set](https://github.com/joshmadakor1/Sentinel-Lab)
   
 
-<h2>🤖 Networking Projects:</h2>
+<h2>🏫 Networking Projects:</h2>
 
 - <b>Building Campus LAN in Packet Tracer</b>
 
