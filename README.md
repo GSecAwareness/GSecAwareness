@@ -16,7 +16,7 @@
 <h2>🖥️ Build Projects:</h2>
 
 - <b>Computer Build Tutorial</b>
-   - [An Introduction to the project](https://github.com/joshmadakor1/Sentinel-Lab)
+   - [An Introduction to the project](https://github.com/GSecAwareness/ComputerBuild/blob/main/README.md))
    - [Getting everything set](https://github.com/joshmadakor1/Sentinel-Lab)
   
 
