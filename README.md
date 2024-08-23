@@ -13,16 +13,18 @@
   - [Create iPhone Compliance Policy for MDM]()
   - [Onboard iPhone into Intune and Assign Compliance Policy](https://github.com/GSecAwareness/CreateActiveDirectoryLab)
 
+<h2>🏫 Networking Projects:</h2>
+
+- <b>Building Campus LAN in Packet Tracer</b>
+
 <h2>🖥️ Build Projects:</h2>
 
 - <b>Computer Build Tutorial</b>
    - [An Introduction to the project](https://github.com/GSecAwareness/ComputerBuild/blob/main/README.md))
-   - [Getting everything set](https://github.com/joshmadakor1/Sentinel-Lab)
+   - [Getting everything set]
   
 
-<h2>🏫 Networking Projects:</h2>
 
-- <b>Building Campus LAN in Packet Tracer</b>
 
 
 
