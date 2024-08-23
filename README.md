@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab </b>
-  - [asdfasdfasdf asdfasdfasdf](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Home Lab using Oracle, Server 2019, Windows 10, Power Shell](https://github.com/GSecAwareness/CreateActiveDirectoryLab)
 - <b>Vulnerability Detection and Remediation</b>
   - [Nesuss Vulnerablity Scan and Remediation walkthrough](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
