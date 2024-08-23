@@ -9,9 +9,9 @@
   
 <h2>🤖 Intune Projects </h2>
 
-- [Create iPhone Compliance Policy for MDM]()
-
-- [Onboard iPhone into Intune and Assign Compliance Policy](https://github.com/GSecAwareness/CreateActiveDirectoryLab)
+- <b>Intune Onboarding </b>
+  - [Create iPhone Compliance Policy for MDM]()
+  - [Onboard iPhone into Intune and Assign Compliance Policy](https://github.com/GSecAwareness/CreateActiveDirectoryLab)
 
 <h2>🖥️ Build Projects:</h2>
 
@@ -20,7 +20,9 @@
    - [Getting everything set](https://github.com/joshmadakor1/Sentinel-Lab)
   
 
-<h2>🤖 AI Projects:</h2>
+<h2>🤖 Networking Projects:</h2>
+
+- <b>Building Campus LAN in Packet Tracer</b>
 
 
 
