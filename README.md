@@ -15,7 +15,7 @@
 
 <h2>🏫 Networking Projects:</h2>
 
-- <b>Building Campus LAN in Packet Tracer</b>
+- <b>Building 3-Tier LAN in Packet Tracer</b>
 
 <h2>🖥️ Build Projects:</h2>
 
