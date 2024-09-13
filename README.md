@@ -17,7 +17,7 @@
 
 - <b>Building 3-Tier LAN in Packet Tracer</b>  
   - [Part One - Initial Setup](https://github.com/GSecAwareness/LAN/blob/main/README.md)  
-  - [Part Two - VLAN, EtherChannel, ]
+  - [Part Two - VLANs and Layer 2 EtherChannel](https://github.com/GSecAwareness/LAN/edit/main/part2/part2.md)
 
 <h2>🖥️ Build Projects:</h2>
 
