@@ -23,7 +23,7 @@
 
 - <b>Computer Build Tutorial</b>
    - [An Introduction to the project](https://github.com/GSecAwareness/ComputerBuild/blob/main/README.md))
-   - [Getting everything set]
+   - [Part 2 - Setting Up The Motherboard](https://github.com/GSecAwareness/ComputerBuild/blob/main/part2/s2-mobo.md)
   
 
 
