@@ -16,7 +16,7 @@
 <h2>🏫 Networking Projects:</h2>
 
 - <b>Building 3-Tier LAN in Packet Tracer</b>  
-  - [Initial Setup](https://github.com/GSecAwareness/LAN/blob/main/README.md)  
+  - [Introduction and Initial Setup](https://github.com/GSecAwareness/LAN/blob/main/README.md)  
   - [VLANs and Layer 2 EtherChannel](https://github.com/GSecAwareness/LAN/edit/main/part2/part2.md)
 
 <h2>🖥️ Build Projects:</h2>
