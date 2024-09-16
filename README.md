@@ -22,7 +22,7 @@
 <h2>🖥️ Build Projects:</h2>
 
 - <b>Computer Build Tutorial</b>
-   - [An Introduction to the project](https://github.com/GSecAwareness/ComputerBuild/blob/main/README.md))
+   - [Introduction and Initial Setup](https://github.com/GSecAwareness/ComputerBuild/blob/main/README.md))
    - [Setting Up The Motherboard](https://github.com/GSecAwareness/ComputerBuild/blob/main/part2/s2-mobo.md)
   
 
