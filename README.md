@@ -4,8 +4,8 @@
 
 - <b>Active Directory Home Lab </b>
   - [Home Lab using Oracle, Server 2019, Windows 10, Power Shell](https://github.com/GSecAwareness/CreateActiveDirectoryLab)
-- <b>Vulnerability Detection and Remediation</b>
-  - [Nesuss Vulnerablity Scan and Remediation walkthrough]()
+- <b>Security Audit</b>
+  - [Compliance and Controls]()
   
 <h2>🏫 Networking Projects:</h2>
 
