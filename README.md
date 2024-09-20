@@ -4,7 +4,8 @@
 
 - <b>Active Directory Home Lab </b>
   - [Home Lab using Oracle, Server 2019, Windows 10, Power Shell](https://github.com/GSecAwareness/CreateActiveDirectoryLab)
-- <b>Security Audit</b>
+- <b>Security Audit Home Project</b>
+  - [Scope and Goals](https://github.com/GSecAwareness/Security-Audit/blob/main/README.md)
   - [Compliance and Controls]()
   
 <h2>🏫 Networking Projects:</h2>
