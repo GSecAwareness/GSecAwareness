@@ -13,7 +13,8 @@
   - [Introduction and Initial Setup](https://github.com/GSecAwareness/LAN/blob/main/README.md)  
   - [VLANs and Layer 2 EtherChannel](https://github.com/GSecAwareness/LAN/edit/main/part2/part2.md)
   - [IP Addressing, Layer-3 EtherChannel, and HSRP](https://github.com/GSecAwareness/LAN/blob/main/part3/part3.md)
-
+  - [Rapid Spanning-Tree Protocol](https://github.com/GSecAwareness/LAN/blob/main/part4/part4.md)
+    
 <h2>🖥️ Build Projects:</h2>
 
 - <b>Computer Build Tutorial</b>
