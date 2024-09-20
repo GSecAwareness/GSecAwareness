@@ -7,12 +7,6 @@
 - <b>Vulnerability Detection and Remediation</b>
   - [Nesuss Vulnerablity Scan and Remediation walkthrough]()
   
-<h2>🤖 Intune Projects </h2>
-
-- <b>Intune Onboarding </b>
-  - [Create iPhone Compliance Policy for MDM](https://github.com/GSecAwareness/iOSCompliancePolicy/tree/main)
-  - [Onboard iPhone into Intune and Assign Compliance Policy](https://github.com/GSecAwareness/CreateActiveDirectoryLab)
-
 <h2>🏫 Networking Projects:</h2>
 
 - <b>Building 3-Tier LAN in Packet Tracer</b>  
@@ -26,9 +20,11 @@
    - [Introduction and Initial Setup](https://github.com/GSecAwareness/ComputerBuild/blob/main/README.md)
    - [Preparing The Motherboard](https://github.com/GSecAwareness/ComputerBuild/blob/main/part2/s2-mobo.md)
   
+<h2>🤖 Intune Projects </h2>
 
-
-
+- <b>Intune Onboarding </b>
+  - [Create iPhone Compliance Policy for MDM](https://github.com/GSecAwareness/iOSCompliancePolicy/tree/main)
+  - [Onboard iPhone into Intune and Assign Compliance Policy](https://github.com/GSecAwareness/CreateActiveDirectoryLab)
 
 
 <h2>🎓 Certifications</h2>
