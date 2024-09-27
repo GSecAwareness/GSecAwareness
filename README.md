@@ -19,6 +19,8 @@
     
 <h2>🖥️ Build Projects:</h2>
 
+- <b>Build Your Own GPT AI Engine<b>
+   - [Initial Windows Setup]()
 - <b>Computer Build Tutorial</b>
    - [Introduction and Initial Setup](https://github.com/GSecAwareness/ComputerBuild/blob/main/README.md)
    - [Preparing The Motherboard](https://github.com/GSecAwareness/ComputerBuild/blob/main/part2/s2-mobo.md)
