@@ -7,6 +7,8 @@
 - <b>Security Audit Home Project</b>
   - [Scope and Goals](https://github.com/GSecAwareness/Security-Audit/blob/main/README.md)
   - [Compliance and Controls]()
+- <b>Authorization Management - Linux CLI<b>
+  - [Basic Permission Management](https://github.com/GSecAwareness/Authorization-Management---Linux-CLI/blob/main/main.md)
   
 <h2>🏫 Networking Projects:</h2>
 
