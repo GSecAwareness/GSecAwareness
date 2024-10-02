@@ -25,6 +25,7 @@
    - [Initial Windows Setup](https://github.com/GSecAwareness/ChatAI/blob/main/setup.md)
    - [Ubuntu and Ollama](https://github.com/GSecAwareness/ChatAI/blob/main/linux.md)
    - [Docker and OpenWebUI](https://github.com/GSecAwareness/ChatAI/blob/main/part3.md)
+     
 - <b>Computer Build Tutorial</b>
    - [Introduction and Initial Setup](https://github.com/GSecAwareness/ComputerBuild/blob/main/README.md)
    - [Preparing and Placing the Motherboard](https://github.com/GSecAwareness/ComputerBuild/blob/main/part2/s2-mobo.md)
