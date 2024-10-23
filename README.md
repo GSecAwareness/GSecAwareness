@@ -3,10 +3,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab </b>
-  - [Home Lab using Oracle, Server 2019, Windows 10, Power Shell](https://github.com/GSecAwareness/CreateActiveDirectoryLab)
+  - [Home Lab using Oracle, Server 2019, Windows 10, Power Shell](https://github.com/GSecAwareness/CreateActiveDirectoryLab/blob/main/README.md)
 - <b>Security Audit Home Project</b>
   - [Scope and Goals](https://github.com/GSecAwareness/Security-Audit/blob/main/README.md)
-  - [Compliance and Controls]
+  - Compliance and Controls
 - <b>Authorization Management - Linux CLI<b>
   - [Basic Permission Management](https://github.com/GSecAwareness/Authorization-Management---Linux-CLI/blob/main/main.md)
   
