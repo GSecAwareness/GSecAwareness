@@ -6,7 +6,7 @@
   - [Home Lab using Oracle, Server 2019, Windows 10, Power Shell](https://github.com/GSecAwareness/CreateActiveDirectoryLab)
 - <b>Security Audit Home Project</b>
   - [Scope and Goals](https://github.com/GSecAwareness/Security-Audit/blob/main/README.md)
-  - [Compliance and Controls]()
+  - [Compliance and Controls]
 - <b>Authorization Management - Linux CLI<b>
   - [Basic Permission Management](https://github.com/GSecAwareness/Authorization-Management---Linux-CLI/blob/main/main.md)
   
