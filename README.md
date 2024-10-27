@@ -28,7 +28,7 @@
 - <b>Computer Build Tutorial</b>
    - [Introduction and Initial Setup](https://github.com/GSecAwareness/ComputerBuild/blob/main/README.md)
    - [Preparing and Placing the Motherboard](https://github.com/GSecAwareness/ComputerBuild/blob/main/part2/s2-mobo.md)
-   - [Installing the Optical Drive, PSU, and Connections](https://github.com/GSecAwareness/ComputerBuild/blob/main/part3/part3.md)
+   - [Installing the Connections, Optical Drive, PSU, and GPU](https://github.com/GSecAwareness/ComputerBuild/blob/main/part3/part3.md)
   
 <h2>🤖 Intune Projects </h2>
 
