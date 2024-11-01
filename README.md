@@ -9,6 +9,7 @@
   - Compliance and Controls
 - <b>Authorization Management - Linux CLI<b>
   - [Basic Permission Management](https://github.com/GSecAwareness/Authorization-Management---Linux-CLI/blob/main/main.md)
+  - [User Management]()
   
 <h2>🏫 Networking Projects:</h2>
 
