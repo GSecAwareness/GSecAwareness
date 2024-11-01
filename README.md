@@ -42,7 +42,7 @@
 
 - [Cisco Certified Network Associate (CCNA 200-301)](https://cp.certmetrics.com/cisco/en/public/verify/credential/ad1896b77896473eb8526f15b658ba1f)
 - [CompTIA A+   (Verification code: SLKQWJT5FBB41GKB) ](http://verify.CompTIA.org)
-- [CompTIA Security+   (Verification code: XXXXX) ](http://verify.CompTIA.org)
+- [CompTIA Security+   (Verification code: 9ZFR1HFQYMFE1N37 ) ](http://verify.CompTIA.org)
 
 
 
