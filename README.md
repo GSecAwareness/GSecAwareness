@@ -13,6 +13,7 @@
   - [Cat, Man, Whatis, and Apropos](https://github.com/GSecAwareness/Authorization-Management---Linux-CLI/blob/main/User-Management/cat.md)
 - <b>SQL Record Management<b>
   - [Basic Record Reading and Sorting ](https://github.com/GSecAwareness/SQL/blob/main/part1.md)
+  - [Basic Record Reading and Sorting - Part 2](https://github.com/GSecAwareness/SQL/blob/main/part2.md)
   
 <h2>🏫 Networking Projects:</h2>
 
