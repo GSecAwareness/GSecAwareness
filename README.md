@@ -12,7 +12,7 @@
   - [User Management](https://github.com/GSecAwareness/Authorization-Management---Linux-CLI/blob/main/User-Management/User_Management.md)
   - [Cat, Man, Whatis, and Apropos](https://github.com/GSecAwareness/Authorization-Management---Linux-CLI/blob/main/User-Management/cat.md)
 - <b>SQL Record Management<b>
-  - [Managing login attempts]()
+  - [Basic Record Reading and Sorting ](https://github.com/GSecAwareness/SQL/blob/main/part1.md)
   
 <h2>🏫 Networking Projects:</h2>
 
