@@ -42,7 +42,7 @@
   - [Create iPhone Compliance Policy for MDM](https://github.com/GSecAwareness/iOSCompliancePolicy/tree/main)
   - [Onboard iPhone into Intune and Assign Compliance Policy](https://github.com/GSecAwareness/Onboard-iPhone/blob/main/main.md)
 - <b>Autopilot <\b>
-  - [Introduction and Setup] (https://github.com/GSecAwareness/Autopilot/blob/main/part1.md)
+  - [Introduction and Setup](https://github.com/GSecAwareness/Autopilot/blob/main/part1.md)
 
 <h2>🎓 Certifications</h2>
 
