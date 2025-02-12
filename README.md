@@ -44,6 +44,7 @@
 - <b>Autopilot </b>
   - [Introduction and Setup](https://github.com/GSecAwareness/Autopilot/blob/main/part1.md)
   - [Policy Template in accordance with NIST SP 800-53 Rev. 5](https://github.com/GSecAwareness/Autopilot/blob/main/part2.md)
+  - [The Autopilot Group Policy](https://github.com/GSecAwareness/Autopilot/blob/main/part3.md)
 
 <h2>🎓 Certifications</h2>
 
