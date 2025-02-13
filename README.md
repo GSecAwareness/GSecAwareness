@@ -45,6 +45,8 @@
   - [Introduction and Procedure](https://github.com/GSecAwareness/Autopilot/blob/main/part1.md)
   - [Policy Template in accordance with NIST SP 800-53 Rev. 5](https://github.com/GSecAwareness/Autopilot/blob/main/part2.md)
   - [Intune Policy Configurations](https://github.com/GSecAwareness/Autopilot/blob/main/part3.md)
+- <b>Azure Universal Printing </b>
+  - [Setup and Share a Printer in your Tenant](asdf)
 
 <h2>🎓 Certifications</h2>
 
