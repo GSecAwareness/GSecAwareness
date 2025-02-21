@@ -41,7 +41,7 @@
 - <b>Intune Onboarding </b>
   - [Create iPhone Compliance Policy for MDM](https://github.com/GSecAwareness/iOSCompliancePolicy/tree/main)
   - [Onboard iPhone into Intune and Assign Compliance Policy](https://github.com/GSecAwareness/Onboard-iPhone/blob/main/main.md)
-- <b>Autopilot </b>
+- <b>Autopilot Deployment and Application Management Based on NIST 800-53 </b>
   - [Introduction and Procedure](https://github.com/GSecAwareness/Autopilot/blob/main/part1.md)
   - [Policy Template in accordance with NIST SP 800-53 Rev. 5](https://github.com/GSecAwareness/Autopilot/blob/main/part2.md)
   - [Intune Policy Configurations](https://github.com/GSecAwareness/Autopilot/blob/main/part3.md)
