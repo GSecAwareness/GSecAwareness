@@ -47,7 +47,7 @@
   - [Intune Policy Configurations](https://github.com/GSecAwareness/Autopilot/blob/main/part3.md)
 - <b>Azure Universal Printing </b>
   - [Setup and Share a Printer in your Tenant](https://github.com/GSecAwareness/Printing/blob/main/part1.md)
-- <b>Creating an Azure Firewall </b>
+- <b>Azure Firewall - Setup and Configuration </b>
   - [Setup and Configure the Firewall]()
 
 <h2>🎓 Certifications</h2>
