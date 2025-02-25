@@ -48,7 +48,9 @@
 - <b>Azure Universal Printing </b>
   - [Setup and Share a Printer in your Tenant](https://github.com/GSecAwareness/Printing/blob/main/part1.md)
 - <b>Azure Firewall - Setup and Configuration </b>
-  - [Introduction and Setup]()
+  - [Introduction and Setup](https://github.com/GSecAwareness/Firewall/blob/main/part1.md)
+  - [Firewall Policy and Azure Firewall Manager](https://github.com/GSecAwareness/Firewall/blob/main/part2.md)
+  - 
 
 <h2>🎓 Certifications</h2>
 
