@@ -50,7 +50,7 @@
 - <b>Azure Firewall - Setup and Configuration </b>
   - [Introduction and Setup](https://github.com/GSecAwareness/Firewall/blob/main/part1.md)
   - [Firewall Policy and Azure Firewall Manager](https://github.com/GSecAwareness/Firewall/blob/main/part2.md)
-  - 
+  - [Create a Routing Table](https://github.com/GSecAwareness/Firewall/blob/main/part3.md)
 
 <h2>🎓 Certifications</h2>
 
