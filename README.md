@@ -14,6 +14,10 @@
   - [Introduction and Setup](https://github.com/GSecAwareness/Firewall/blob/main/part1.md)
   - [Firewall Policy and Azure Firewall Manager](https://github.com/GSecAwareness/Firewall/blob/main/part2.md)
   - [Create a Routing Table](https://github.com/GSecAwareness/Firewall/blob/main/part3.md)
+- <b>Purview: Data Loss Prevention </b>
+  -[Introduction]()
+  -[DLP Policy Creation (Based on Template) - U.S. Patriot Act]()
+  -[DLP Policy Creation (Based on Sensitive Info Type)]()
 - <b>Intune Onboarding </b>
   - [Create iPhone Compliance Policy for MDM](https://github.com/GSecAwareness/iOSCompliancePolicy/tree/main)
   - [Onboard iPhone into Intune and Assign Compliance Policy](https://github.com/GSecAwareness/Onboard-iPhone/blob/main/main.md)
