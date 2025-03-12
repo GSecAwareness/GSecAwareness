@@ -17,7 +17,7 @@
 - <b>Purview: Data Loss Prevention </b>  
   - [Introduction](https://github.com/GSecAwareness/dlp/blob/main/part1.md)  
   - [DLP Policy Creation (Based on Template) - U.S. Patriot Act](https://github.com/GSecAwareness/dlp/blob/main/part2.md)  
-  - [DLP Policy Creation (Based on Sensitive Info Type)]()  
+  - [DLP Policy Creation (Based on Sensitive Info Type)](https://github.com/GSecAwareness/dlp/blob/main/part3.md)  
 - <b>Intune Onboarding </b>
   - [Create iPhone Compliance Policy for MDM](https://github.com/GSecAwareness/iOSCompliancePolicy/tree/main)
   - [Onboard iPhone into Intune and Assign Compliance Policy](https://github.com/GSecAwareness/Onboard-iPhone/blob/main/main.md)
